@@ -1,8 +1,8 @@
 # learn-git
 
-##第2天的课程作业
+## 第2天的课程作业 
 
-##Tasks:
+## Tasks:
 Create a new local repo
 Add a text file locally
 Create the remote repo on GitHub
